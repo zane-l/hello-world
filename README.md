@@ -1,2 +1,3 @@
 # hello-world
-Repository 1
+
+It's time to get stuck into coding
